@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "companyName": "Shell",
+    "JobTitle": "Software developer",
+    "jobLink": "https://www.shell.com/",
+    "status": "pending",
+    "DateApplied": "2024-04-24",
+    "followUpDate": "",
+    "location": "The Hague",
+    "notes": "Check their internal application portal",
+    "reminder": "Follow up after 7 days"
+  },
+  {
+    "id": 2,
+    "companyName": "Philips",
+    "jobTitle": "Backend Developer",
+    "jobLink": "https://www.philips.com/",
+    "status": "applied",
+    "dateApplied": "2024-04-20",
+    "followUpDate": "2024-04-27",
+    "location": "Eindhoven",
+    "notes": "Focus on Java and Spring Boot",
+    "reminder": "Prepare for possible interview"
+  },
+  {
+    "id": 3,
+    "companyName": "ASML",
+    "jobTitle": "Software Engineer",
+    "jobLink": "https://www.asml.com/",
+    "status": "interview",
+    "dateApplied": "2024-04-15",
+    "followUpDate": null,
+    "location": "Veldhoven",
+    "notes": "Interview scheduled next week",
+    "reminder": "Practice system design questions"
+  },
+  {
+    "id": 4,
+    "companyName": "ING",
+    "jobTitle": "Full Stack Developer",
+    "jobLink": "https://www.ing.com/",
+    "status": "rejected",
+    "dateApplied": "2024-04-10",
+    "followUpDate": null,
+    "location": "Amsterdam",
+    "notes": "Rejected after first interview",
+    "reminder": null
+  },
+  {
+    "id": 5,
+    "companyName": "Booking.com",
+    "jobTitle": "Frontend Developer",
+    "jobLink": "https://www.booking.com/",
+    "status": "offer",
+    "dateApplied": "2024-04-05",
+    "followUpDate": null,
+    "location": "Amsterdam",
+    "notes": "Received offer, need to decide",
+    "reminder": "Review contract details"
+  }
+]
